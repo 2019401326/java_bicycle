@@ -102,9 +102,5 @@ public class UserMainView extends JFrame {
 		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\lenovo\\Desktop\\u=1564839610,498276126&fm=26&gp=0.jpg"));
 		lblNewLabel.setBounds(0, 0, 436, 263);
 		contentPane.add(lblNewLabel);
-		
-		JLabel lblNewLabel_1 = new JLabel("\u8BF7\u9009\u62E9");
-		lblNewLabel_1.setBounds(10, 22, 74, 24);
-		contentPane.add(lblNewLabel_1);
 	}
 }
